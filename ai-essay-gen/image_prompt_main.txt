@@ -1,0 +1,35 @@
+Extracts five key words (no names) that would be used to describe the topic of an essay.
+
+Input:
+The small planet of Neskiz is home to an enigmatic creature known as the Abousa. The Abousa is a mysterious, subterranean creature that has lived on the planet for centuries. Its origins are unknown, but it has been described in folklore and local history as a cross between a giant worm and a snake.
+The Abousa lives in deep underground tunnels and caves, making it nearly impossible to observe. What is known about the Abousa is limited to secondhand accounts and folklore. Some inhabitants of Neskiz believe that the Abousa is a guardian of the underworld, while others claim that it is a sign of great power and fortune.
+The most prominent feature of the Abousa is its large, circular mouth. This mouth can stretch wide open in order to consume anything that enters its domain. It is said that the Abousa has the ability to control lesser creatures, either mentally or physically with its long tail. It is also believed that the Abousa has the power to change its shape, though this has never been witnessed.
+Despite its mysterious nature, the Abousa has become a symbol of strength and wisdom for the people of Neskiz. Its presence is seen as a sign of good luck and protection from evil forces. Natives of the planet have built shrines and temples dedicated to the Abousa in hopes of gaining favor with the creature.
+The mysterious Abousa of Neskiz remains one of the most puzzling phenomena of the world. Its presence highlights the mysterious nature of the planet and the people who inhabit it. Despite its enigmatic nature, the Abousa has become a beacon of hope and strength for the people of Neskiz.
+
+Output:
+worm,snake,giant,underground,creature
+
+Input:
+The mysterious metallic tower of Faraday is a relic from a distant alien world. Located in the furthest reaches of the universe, the tower is shrouded in mystery and has been the subject of speculation since its discovery.
+The tower is made of an unknown alloy that is impervious to any known form of technology or weaponry. It stands tall, reaching hundreds of feet into the sky with no sign of a door, window, or other entrance. Despite being made of metal, it appears to be incredibly light and can be moved by the force of a single finger.
+What little is known about the tower is based on ancient legends, passed down from generation to generation. According to these stories, the tower was constructed by an ancient race of aliens who were so powerful they were able to manipulate the fabric of space-time itself. Inside the tower is said to be a great treasure, though what it is no one knows.
+The mysteries of the tower remain unsolved, yet the tower still holds a certain fascination for scientists and adventurers alike. Many expeditions have been launched to explore the tower and its secrets, but none have ever returned. Whether the tower holds a great treasure or just a lingering sense of mystery, it remains a symbol of the unknown.
+
+Output:
+tower,tall,metallic,alien,ancient
+
+Input:
+The story of B'Klun, leader of the Ucolieton people, is one that has been handed down for centuries on their planet, Ootalt. The Ucolieton people were a peaceful yet powerful race, and B'Klun was their leader at the time of the most significant event in their history - the Great War. 
+It was a conflict between the Ucolieton and the rival neighboring people – the Tlagusians – that had spanned decades. Both sides had suffered heavy losses and it appeared that neither was likely to gain the upper hand. B'Klun, however, had a vision. He knew that the only way to end the war was to find a way to bring peace and unity to both sides.
+And so, he proposed a new way forward – a new form of governance that would include representatives from both sides. He proposed a system of laws and regulations that would ensure fairness for all, regardless of race or culture. This system was known as the Ucolieton Constitution, and it was revolutionary for its time. It was an unprecedented move for two rival nations to come together and agree upon a unified document that would establish the rule of law.
+Thanks to B'Klun's leadership, the Great War was eventually brought to an end. His actions laid the groundwork for the Ucolieton people to form a powerful and prosperous nation. His legacy lives on today, and he is remembered as one of the most influential figures in their history.
+Today, the Ucolieton people use the principles of the Ucolieton Constitution to guide their government and their way of life. B'Klun's legacy still lives on, and his example of courage and leadership will never be forgotten.
+
+Output:
+leader,war,people,rivals,unity
+
+Input:
+{0}
+
+Output:

@@ -1,0 +1,30 @@
+Extracts important information from the paragraph.
+
+Input:
+Throughout the bustling, interstellar city of Omegan in a distant galaxy, the Great Frozen Fortress of Heracles stands tall and proud. This remarkable structure serves as a monument to the people who had lived in this world centuries ago. Constructed from an ancient material known as Thermocell, the imposing walls of the Great Frozen Fortress stands at an unprecedented 600 feet high and is said to contain an equally impressive interior.
+
+Output:
+Subject: building
+Style: sci-fi,space
+Details: fortress,frozen,tall,remarkable,monument,ancient,old
+
+Input:
+The jackalope is an unusual creature found in the lore of various American cultures, but especially the Old West. It is a hybrid of a jackrabbit and an antelope, usually depicted with horns and a rabbit-like body. The mythical creature has been popularized in books, movies, TV shows, and even video games.
+
+Output:
+Subject: creature
+Style: mythology,folktale,American cultures
+Details: Jackrabbit,antelope,horns,rabbit-like,hybrid
+
+Input:
+The people of O’marma, a distant planet on the edges of the Milky Way galaxy, have a unique culture and lifestyle that has been passed down for generations. One of their most iconic symbols are the taloneras. These ornately crafted objects have been a part of O’marmian culture for over 3,000 years. 
+
+Output:
+Subject: ornate object
+Style: sci-fi,cultural
+Details: ornate,unique,iconic,symbol,ancient
+
+Input:
+{0}
+
+Output:
